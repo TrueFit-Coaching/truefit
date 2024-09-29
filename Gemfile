@@ -2,6 +2,7 @@
 source "https://rubygems.org"
 
 gem "jekyll-remote-theme"
+gem "jekyll-sass-converter", "~> 2.0"
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
