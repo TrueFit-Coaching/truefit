@@ -13,18 +13,16 @@ en: &DEFAULT_EN
   nav:
     - title: "Services"
       section: services
-    - title: "Portfolio"
-      section: portfolio
     - title: "About"
       section: about
-    - title: "Timeline"
-      section: timeline
-    - title: "Team"
-      section: team
+    - title: "Reviews"
+      section: reviews
+    - title: "Blog"
+      section: portfolio
+    - title: "Booking"
+      section: contact
     - title: "Contact"
       section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
 en-US:
   <<: *DEFAULT_EN
 en-CA:
@@ -34,25 +32,26 @@ en-GB:
 en-AU:
   <<: *DEFAULT_EN
 
-# Spanish
+# German
 # -------
-es: &DEFAULT_ES
+de: &DEFAULT_DE
   nav:
-    - title: "Servicios"
-      section: servicios
-    - title: "Portafolio"
-      section: portafolio
-    - title: "Sobre Nosotros"
-      section: nosotros
-    - title: "Cronología"
-      section: cronologia
-    - title: "Equipo"
-      section: equipo
-    - title: "Contáctenos"
-      section: contacto
-    - title: "Fuente de la plantilla"
-      url: https://github.com/raviriley/agency-jekyll-theme/
-es-ES:
-  <<: *DEFAULT_ES
-es-CO:
-  <<: *DEFAULT_ES
+    - title: "Leistungen"
+      section: services
+    - title: "Über mich"
+      section: about
+    - title: "Erfahrungsberichte"
+      section: reviews
+    - title: "Blog"
+      section: portfolio
+    - title: "Buchen"
+      section: contact
+    - title: "Kontakt"
+      section: contact
+
+de-DE:
+  <<: *DEFAULT_DE
+de-AT:
+  <<: *DEFAULT_DE
+de-CH:
+  <<: *DEFAULT_DE
