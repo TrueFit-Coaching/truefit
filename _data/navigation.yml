@@ -15,8 +15,8 @@ en: &DEFAULT_EN
       section: services
     - title: "About"
       section: about
-    - title: "Reviews"
-      section: reviews
+    - title: "Testimonials"
+      section: testimonials
     - title: "Blog"
       section: portfolio
     - title: "Booking"

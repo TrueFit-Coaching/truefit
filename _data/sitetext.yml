@@ -18,72 +18,79 @@ en: &DEFAULT_EN
 
   services:
     title: "Services"
-    text: "Choose a package that is best suited for your dreams and needs"
+    text: "Both in person and online coaching is possible."
     section: services
     list:
       - title: "Transformation Program"
         desc: "Your Ultimate Fitness Makeover - Embark on a full-body transformation journey with a personalized plan designed to reshape your physique and boost your confidence. From weight loss to muscle gain, I will guide you every step of the way to achieve lasting results.
 "
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fas fa-rocket #find more at https://fontawesome.com/icons
       - title: "Burn & Sculpt"
         desc: "Torch Fat, Define Muscle - This high-intensity program is crafted for rapid fat burning and muscle toning. Push your limits with powerful workouts designed to deliver visible results in less time, perfect for those who want to get fit fast."
-        icon: fas fa-laptop
+        icon: fas fa-fire
       - title: "Fit by Design"
         desc: "Fit by Design - Achieve your unique fitness goals with a customized workout and nutrition plan. Whether you're building strength, toning up, or shedding pounds, this program adapts to you and evolves as you progress.
 "
-        icon: fab fa-markdown
+        icon: fa fa-plus-circle
       - title: "Fit Mommy"
         desc: "Strong After Childbirth - Get back to feeling your best after childbirth with safe and effective workouts tailored for new mothers. This program helps you rebuild strength, tone your body, and regain energy, all while focusing on your post-pregnancy recovery."
-        icon: fab fa-markdown
+        icon: fa fa-female
       - title: "Workday Warrior"
         desc: "Stay fit without compromising your busy schedule. This program is designed for professionals with limited time, featuring efficient workouts and mobility exercises to keep you active and energized throughout the workday."
-        icon: fab fa-markdown
+        icon: fa fa-laptop
       - title: "Active Ageing"
         desc: "Stay Strong, Age Gracefully - Designed for older adults, this program promotes strength, flexibility, and mobility to help you stay active and maintain your independence. With low-impact exercises, we’ll ensure you feel confident and capable at every stage of life."
-        icon: fab fa-markdown
+        icon: fab fa-pagelines
+
+  about:
+    title: "About Me"
+    body: "Welcome! I’m **Dr. Vera Schnells**, a licensed personal trainer with over a decade of experience in fitness transformation. Guided by a **science-based approach**, I craft personalized programs that combine effective training and tailored nutrition for impactful, lasting results. Based in Germany, I offer both in-person and online coaching for all fitness levels — whether you’re a beginner, an advanced athlete, or a new mom looking to regain strength and confidence.\n
+    
+    My goal is to empower you with effective workouts and balanced nutrition, designed uniquely for your needs and lifestyle. Together, we’ll create a plan that’s realistic, challenging, and most importantly — sustainable. Let’s work together to **unlock your full potential** and make lasting changes, one step at a time.\n
+    
+    **Ready to start your journey? Let’s connect and make it happen!**"
+    image: assets/img/about/profilepic0.jpg
+    section: about
+
+  timeline:
+    title: "Testimonials"
+    text: "Here are some of my clients success stories"
+    section: testimonials
+    # left is the default
+    #start_align: "left"
+    events:
+      - title: "Boosted my motivation for working out and achieving my goals"
+        year: "Viktor, Master of Digitalization student"
+        desc: "bla"
+        image: assets/img/timeline/1.jpg
+        alt:
+      - title: "Feel so much more confident in my body"
+        year: "Peter, college teacher"
+        desc: "bla"
+        image: assets/img/timeline/2.jpg
+        alt:
+      - title: "Got back in my best shape after a long break"
+        year: "Felix, civil cervant and lecturer"
+        desc: "bla"
+        image: assets/img/timeline/3.jpg
+        alt: image alt text
+      - title: "Guided me through the first steps in the gym so I knew exactly what to do"
+        year: "Oxi, young management professional"
+        desc: "bla"
+        image: assets/img/timeline/3.jpg
+        alt: image alt text
+      - title: "I finally have a fitness routine I can integrate into my busy work schedule"
+        year: "Sinah, health care professional"
+        desc: "bla"
+        image: assets/img/timeline/4.jpg
+        alt: image alt text
+    end: "Begin <br> Your Success <br> Story!"
 
   portfolio:
     title: "Blog"
     text: "Lorem ipsum dolor sit amet consectetur."
     section: blog
     closebutton: "Close Project"
-
-  about:
-    title: "About Me"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: about
-
-  timeline:
-    title: "Timeline"
-    text: "Lorem ipsum timeline"
-    section: reviews
-    # left is the default
-    #start_align: "left"
-    events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
-        alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
-        alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt:
-        # you can enforce the alignment
-        align: right
-    end: "Be Part <br> of Our <br> Story!"
 
   team:
     title: "OUR AMAZING TEAM"
@@ -124,7 +131,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Me"
-    text: "To book an appointment or ask a question, Write a message using the form below or contact me on Instagram @workout_shinobi"
+    text: "To book an appointment or ask a question, write a message using the form below or contact me on Instagram "
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
