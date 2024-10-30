@@ -18,7 +18,7 @@ url    : "https://truefit-coaching.github.io" # the base hostname & protocol for
 baseurl: "/truefit" # the subpath of your site, e.g. /blog
 
 title      : TrueFit-Coaching
-email      : truefit@gmail.com #this is also the email contact forms will go to
+email      : truefit.contact@gmail.com #this is also the email contact forms will go to
 description: "Science-based Personal Training & Coaching crafted for your indivdual needs!"
 author     : Dr. Vera Schnells
 logo       :     #optional, defaults to site title
