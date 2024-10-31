@@ -81,6 +81,9 @@
     h2 {
       font-size: 3em;
       margin-bottom: 15px;
+      max-width: 100%; /* Ensure it doesn't exceed container width */
+      word-wrap: break-word; /* Allow wrapping */
+      overflow-wrap: break-word; /* Better support for some browsers */
     }
     p {
       margin-bottom: 30px;
@@ -100,6 +103,13 @@
     }
     button {
       cursor: pointer;
+    }
+    @media (max-width: 600px) {
+    	.modal-content {
+      		h2 {
+        		font-size: 2em; /* Adjust font size for smaller screens */
+      		}
+    	}
     }
   }
   .close-modal {

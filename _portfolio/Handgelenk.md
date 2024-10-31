@@ -12,7 +12,7 @@ tags:
 
 caption:
    title: Was tun bei Schmerzen im Handgelenk?
-   subtitle: Article
+   subtitle: Hilfe & Prävention
    thumbnail: assets/img/portfolio/HandgelenkEtc/thumbnail-wrist.jpg
 ---
 

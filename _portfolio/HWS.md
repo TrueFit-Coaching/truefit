@@ -11,15 +11,13 @@ tags:
 
 caption:
    title: Schmerzen in der Halswirbelsäule
-   subtitle: Article
+   subtitle: Hilfe & Prävention
    thumbnail: assets/img/portfolio/HandgelenkEtc/thumbnail-HWS.jpg
 ---
 
 Nackenschmerzen und Probleme in der Halswirbelsäule (HWS) sind in unserer Gesellschaft leider keine Seltenheit und für Viele eine regelmäßige Erscheinung. In meiner Arbeit als Personal Trainer komme ich sehr häufig in Kontakt mit vermehrt auch jungen Leuten, die chronische Schmerzen oder sogar Bandscheibenvorfälle in der Halswirbelsäule haben. Und dabei handelt es sich in der Mehrzahl nicht um besonders ungesund lebende Zeitgenossen. Vielmehr ist der Übeltäter das viele Sitzen, und da ganz besonders das viele Sitzen am Computer, sei es für die Arbeit, das Studium oder auch in der Freizeit. Studien zeigen mittlerweile sehr deutlich, dass regelmäßige Computerarbeit, und besonders lange Phasen ohne Unterbrechung sehr belastend für die Hals und Schultern sind [[Bongers]](#Bongers). Gemäß Kiss et al heißt das 25 oder mehr Stunden pro Woche Arbeit am Computer, und Phasen ohne Unterbrechung von mehr als einer Stunde [[Kiss]](#Kiss).   
 
-Weil wir die meisten von uns ja leider sehr viel "Screen time" sammeln, möchte ich euch in diesem Blogpost schildern, was Ursache für diese Beschwerden sein kann, welche Behandlungen es im Akutfall gibt und wie man präventiv oder auch rehabilitativ durch Übungen aus dem Schmerz heraus kommt. Die hier vorgestellten Übungen brauchen kein Zusatzmaterial und können auch in sehr kurze Pausen gepackt werden, also gibt es keine Ausreden :) 
-
-Wenn ihr selber Leidtragender von Nacken- und HWS-Problemen seid oder Erfahrungen damit habt, schreib gerne in die Kommentare.
+Weil wir die meisten von uns ja leider sehr viel "Screen time" sammeln, möchte ich euch in diesem Blogpost schildern, was Ursache für diese Beschwerden sein kann, welche Behandlungen es im Akutfall gibt und wie man präventiv oder auch rehabilitativ durch Übungen aus dem Schmerz heraus kommt. Die hier vorgestellten Übungen brauchen kein Zusatzmaterial und können auch in sehr kurze Pausen gepackt werden, also gibt es keine Ausreden!!
 
 
 ## Anatomie der Halswirbelsäule
