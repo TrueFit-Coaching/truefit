@@ -31,7 +31,7 @@ Der Atlas ist ein knöcherner Ring aus zwei wie Schalen geformten Gelenkflächen
 Gestützt werden die Wirbel durch verschiedene Bänder und Muskeln. Durch die Wirbellöcher rechts und links treten die Nerven aus dem Rückenmark aus, die die Arme versorgen. Des Weiteren verläuft eine Arterie, für die Blutversorgung des Gehirns verantwortlich, durch die HWS.
 
 <p align="center">
-  <img title="Anatomie der HWS" alt="Anatomie der HWS" width="800" src="assets/img/portfolio/HandgelenkEtc/Halswirbelsaeule-Anatomie.jpg">
+  <img title="Anatomie der HWS" alt="Anatomie der HWS" class="img-fluid" src="assets/img/portfolio/HandgelenkEtc/Halswirbelsaeule-Anatomie.jpg">
 </p>
 <p align = "center">
 Die Anatomie der HWS
@@ -67,7 +67,7 @@ Eine dauerhafte Fehlbelastung der Wirbelsäule, etwa durch häufiges Sitzen (ins
 Eine typische Fehlhaltung in unserer Gesellschaft ist der sogenannte „Nerd Neck“. Dabei handelt es sich um eine vermehrte Protraktion, also das Vorschieben des Kinns und das gleichzeitige in den Nacken legen den Kopfes. Diese Position wird sehr häufig unbewusst vor dem Computer und auch beim Autofahren eingenommen. Während dieser Bewegung werden die vorderen Strukturen der Halswirbelsäule auf Länge gebracht, also gedehnt und die hinteren komprimiert. Für beide Seiten ist dies eine Belastung der Strukturen. Berufsgruppen, wie Berufskraftfahrer oder Menschen in Bürotätigkeiten sind deshalb häufiger betroffen von einem Bandscheibenvorfall der HWS. 
 
 <p align="center">
-  <img title="Nerd Neck" alt="Nerd Neck - typische Fehlhaltung begünstigt durch intensive Computerarbeit" width="600" src="assets/img/portfolio/HandgelenkEtc/nerdneck.jpg">
+  <img title="Nerd Neck" alt="Nerd Neck - typische Fehlhaltung begünstigt durch intensive Computerarbeit" class="img-fluid" src="assets/img/portfolio/HandgelenkEtc/nerdneck.jpg">
 </p>
 <p align = "center">
 Durch intensive Computerarbeit und Bedienung des Smartphones wird der "Nerd Neck", eine übermäßige Protraktion des Kopfes, begünstigt.
@@ -107,7 +107,7 @@ Die Übung wird gerade stehend an der Wand ausgeführt. Dabei wird der Hinterkop
 Zuerst wird diese Position übertrieben und fünf bis 15 Sekunden gehalten. Nach kurzer Pause wird das Ganze bis zu zehn Mal wiederholt. Zum Abschluss löst man sich ca. 10% aus der Stellung, was dann in etwa einer gesunden Position der HWS entspricht.
 
 <p align="center">
-  <img title="Retraktionsübung stehend" alt="Retraktionsübung stehend" width="600" src="assets/img/portfolio/HandgelenkEtc/Retraktionsuebung-stehend.jpg">
+  <img title="Retraktionsübung stehend" alt="Retraktionsübung stehend" class="img-fluid" src="assets/img/portfolio/HandgelenkEtc/Retraktionsuebung-stehend.jpg">
 </p>
 <p align = "center">
 Retraktionsübung stehend
@@ -118,7 +118,7 @@ Variation 1: Diese Übung kann in Rückenlage auf dem Boden ausgeführt werden, 
 Variation 2: Auch kann man die Übung sitzend ausführen. Der Widerstand kann erhöht werden, indem man den Kopf in ein Tuch presst, das mit beiden Armen gehalten wird, wie in Abbildung (b) gezeigt.
 
 <p align="center">
-  <img title="Retraktionsübung sitzend" alt="Retraktionsübung sitzend" width="600" src="assets/img/portfolio/HandgelenkEtc/Retraktionsuebung-sitzend.jpg">
+  <img title="Retraktionsübung sitzend" alt="Retraktionsübung sitzend" class="img-fluid" src="assets/img/portfolio/HandgelenkEtc/Retraktionsuebung-sitzend.jpg">
 </p>
 <p align = "center">
 Retraktionsübung sitzend

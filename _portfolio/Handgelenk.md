@@ -27,7 +27,7 @@ Das Handgelenk setzt sich aus mehreren Teilgelenken zusammen, die in ihrer Gesam
 Um den Bewegungsradius des Handgelenks signifikant zu vergrößern, braucht es ein konsistentes und progressives Training über mehrere Monate hinweg. Die Geduld zahlt sich dann aus, denn die Verletzungsgefahr kann dadurch stark reduziert werden. 
 
 <p align="center">
-  <img title="Handgelenk schematisch" alt="Handgelenk schematisch" width="700" src="assets/img/portfolio/HandgelenkEtc/Handgelenk-Anatomie.jpg">
+  <img title="Handgelenk schematisch" alt="Handgelenk schematisch" class="img-fluid" src="assets/img/portfolio/HandgelenkEtc/Handgelenk-Anatomie.jpg">
 </p>
 <p align = "center">
  Das Handgelenk setzt sich aus acht Handwurzelknochen, fünf Mittelhandknochen und zwei Unterarmknochen zusammen.
@@ -49,7 +49,7 @@ Wird der Mausarm nicht frühzeitig behandelt, können daraus nicht mehr heilbare
 Wird die Erkrankung frühzeitig erkannt und behandelt, ist die Aussicht auf Heilung meistens gut. Ist die Krankheit jedoch bereits chronisch, ist eine Behandlung oft schwierig und häufig kann eine dauerhafte Beeinträchtigung nicht ausgeschlossen werden. Mögliche Folgeerkrankungen können ein Karpaltunnelsyndrom oder eine Sehnenscheidenentzündung sein.
 
 <p align="center">
-  <img title="Mausarm" alt="Mausarm" width="400" src="assets/img/portfolio/HandgelenkEtc/Mausarm.jpg">
+  <img title="Mausarm" alt="Mausarm" class="img-fluid" src="assets/img/portfolio/HandgelenkEtc/Mausarm.jpg">
 </p>
 <p align = "center">
 Die stundenlange Bedienung einer Maus kann auf Dauer Beschwerden im Handgelenk verursachen.
@@ -123,7 +123,7 @@ Durch kleine Übungen kann man sehr erfolgreich Handgelenksbeschwerden vorbeugen
 * **Faszien-Rollmassage** für die Flexoren und Extensoren mit einem Tennisball: https://www.youtube.com/embed/4oFzWU_TLO4
 
 <p align="center">
-  <img title="Faszienrollmassage" alt="Faszienrollmassage" width="700" src="assets/img/portfolio/HandgelenkEtc/forearm-massage.jpg">
+  <img title="Faszienrollmassage" alt="Faszienrollmassage" class="img-fluid" src="assets/img/portfolio/HandgelenkEtc/forearm-massage.jpg">
 </p>
 <p align = "center">
 Faszienrollmassage
@@ -132,42 +132,42 @@ Faszienrollmassage
 * Eine Videoanleitung mehrerer Übungen ohne Zusatzmaterial, die auch für Sportler interessant ist; hier in Schriftform: https://gmb.io/wrists/
 
 <p align="center">
-  <img title="Pumpen der Finger" alt="Pumpen der Finger" width="700" src="assets/img/portfolio/HandgelenkEtc/FingerPump.jpg">
+  <img title="Pumpen der Finger" alt="Pumpen der Finger" class="img-fluid" src="assets/img/portfolio/HandgelenkEtc/FingerPump.jpg">
 </p>
 <p align = "center">
 Pumpen der Finger
 </p>
 
 <p align="center">
-  <img title="Handgelenksdehnung" alt="Handgelenksdehnung" width="700" src="assets/img/portfolio/HandgelenkEtc/wrist-front-back.jpg">
+  <img title="Handgelenksdehnung" alt="Handgelenksdehnung" class="img-fluid" src="assets/img/portfolio/HandgelenkEtc/wrist-front-back.jpg">
 </p>
 <p align = "center">
 Handgelenksdehnung
 </p>
 
 <p align="center">
-  <img title="Rückseite Handgelenksdehnung" alt="Rückseite Handgelenksdehnung" width="700" src="assets/img/portfolio/HandgelenkEtc/Handrueckseite-Stretch.jpg">
+  <img title="Rückseite Handgelenksdehnung" alt="Rückseite Handgelenksdehnung" class="img-fluid" src="assets/img/portfolio/HandgelenkEtc/Handrueckseite-Stretch.jpg">
 </p>
 <p align = "center">
 Rückseite Handgelenksdehnung
 </p>
 
 <p align="center">
-  <img title="Seitliche Handgelenksdehnung" alt="Seitliche Handgelenksdehnung" width="550" src="assets/img/portfolio/HandgelenkEtc/wrist-left-right.jpg">
+  <img title="Seitliche Handgelenksdehnung" alt="Seitliche Handgelenksdehnung" class="img-fluid" src="assets/img/portfolio/HandgelenkEtc/wrist-left-right.jpg">
 </p>
 <p align = "center">
 Seitliche Handgelenksdehnung
 </p>
 
 <p align="center">
-  <img title="Fingerdehnung" alt="Fingerdehnung" width="850" src="assets/img/portfolio/HandgelenkEtc/finger-rotation.jpg">
+  <img title="Fingerdehnung" alt="Fingerdehnung" class="img-fluid" src="assets/img/portfolio/HandgelenkEtc/finger-rotation.jpg">
 </p>
 <p align = "center">
 Fingerdehnung
 </p>
 
 <p align="center">
-  <img title="Rückhanddehnung" alt="Rückhanddehnung" width="700" src="assets/img/portfolio/HandgelenkEtc/armpit-rotation.jpg">
+  <img title="Rückhanddehnung" alt="Rückhanddehnung" class="img-fluid" src="assets/img/portfolio/HandgelenkEtc/armpit-rotation.jpg">
 </p>
 <p align = "center">
 Rückhanddehnung
@@ -181,7 +181,7 @@ Ein paar Übungen, die man direkt am Arbeitsplatz machen kann:
 * **Tennisballpresse:** Ball für 5-10s mit den Fingern stark drücken. Der Druck sollte nicht so groß sein, dass es schmerzt.
 
 <p align="center">
-  <img title="Tennisballpresse" alt="Tennisballpresse" width="400" src="assets/img/portfolio/HandgelenkEtc/Tennisballpresse.jpg">
+  <img title="Tennisballpresse" alt="Tennisballpresse" class="img-fluid" src="assets/img/portfolio/HandgelenkEtc/Tennisballpresse.jpg">
 </p>
 <p align = "center">
 Tennisballpresse
@@ -190,7 +190,7 @@ Tennisballpresse
 * **Push/Pull für die Daumen:** Eine Faust machen und Daumen wegspreizen (aka thumbs up). Daumen anspannen und mit der freien Hand nach hinten/vorne ziehen. Für ein paar Sekunden Zug halten, ohne dass sich der Daumen bewegt.
 
 <p align="center">
-  <img title="Dehnung des Daumens" alt="Dehnung des Daumens" width="400" src="assets/img/portfolio/HandgelenkEtc/PushPullDaumen.jpg">
+  <img title="Dehnung des Daumens" alt="Dehnung des Daumens" class="img-fluid" src="assets/img/portfolio/HandgelenkEtc/PushPullDaumen.jpg">
 </p>
 <p align = "center">
 Dehnung des Daumens
