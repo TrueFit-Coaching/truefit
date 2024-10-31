@@ -61,29 +61,24 @@ en: &DEFAULT_EN
     events:
       - title: "Boosted my motivation for working out and achieving my goals"
         year: "Viktor, Master of Digitalization student"
-        desc: "bla"
-        image: assets/img/timeline/1.jpg
+        desc: "When my progress stalled, Vera made a significant impact on my muscle-building journey. She provided not only motivation but also a personalized training plan tailored to my goals, along with invaluable tips on vegan nutrition. Her targeted guidance on exercise execution completed the experience perfectly. I truly appreciate her scientific approach, and with Vera's support, I've achieved remarkable progress. If you're ready to transform your fitness journey, I highly recommend working with Vera!"
+        image: assets/img/timeline/viktor.jpg
         alt:
-      - title: "Feel so much more confident in my body"
-        year: "Peter, college teacher"
-        desc: "bla"
-        image: assets/img/timeline/2.jpg
-        alt:
-      - title: "Got back in my best shape after a long break"
+                #      - title: "Feel so much more confident in my body"
+                #        year: "Peter, college teacher"
+                #        desc: "bla"
+                #        image: assets/img/timeline/peter.jpg
+                #        alt:
+      - title: "Got back into the gym continuously after a long injury break"
         year: "Felix, civil cervant and lecturer"
-        desc: "bla"
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Guided me through the first steps in the gym so I knew exactly what to do"
-        year: "Oxi, young management professional"
-        desc: "bla"
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
+        desc: "After a long break due to injury, I found myself struggling to regain my fitness and motivation. As a civil clerk with a desk job, I knew I needed to make a change, but I didn't know where to start. Working with Vera has been a transformative experience. She not only helped me get back into sports but also tailored a plan that suited my needs and schedule. Her encouragement and expertise made all the difference in my recovery, both physically and mentally. I’ve regained my strength and confidence, and I feel better than ever. If you're in a similar situation and need a supportive coach, I highly recommend reaching out to Vera. She will help you find your path to fitness!"
+        image: assets/img/timeline/felix.jpg
+        alt:
       - title: "I finally have a fitness routine I can integrate into my busy work schedule"
         year: "Sinah, health care professional"
-        desc: "bla"
-        image: assets/img/timeline/4.jpg
-        alt: image alt text
+        desc: "Working with Vera has been a game changer for me! As a busy professional, I struggled to find time for fitness amidst my hectic schedule. Vera crafted an efficient workout plan that perfectly fits into my day, allowing me to stay consistent and motivated. Her expert guidance on healthy eating and incorporating mobility exercises into my office routine has made a huge difference in my energy levels and overall well-being. I’ve not only transformed my fitness but also my mindset. I can't recommend Vera enough—if you're looking to make a positive change in your life, she is the coach you need!"
+        image: assets/img/timeline/sinah.jpg
+        alt:
     end: "Begin <br> Your Success <br> Story!"
 
   portfolio:
@@ -111,12 +106,12 @@ en: &DEFAULT_EN
     legal: "Privacy Policy"
     imprint: "Imprint"
     social:
+      - url: https://instagram.com/workout_shinobi
+        icon: "fab fa-instagram"
       - url: https://www.facebook.com/profile.php?id=100082318942102
         icon: "fab fa-facebook-f"
       - url: https://linkedin.com/dr-vera-schnells-9400b51b2
         icon: "fab fa-linkedin-in"
-      - url: https://instagram.com/workout_shinobi
-        icon: "fab fa-instagram"
 en-US:
   <<: *DEFAULT_EN
 en-CA:

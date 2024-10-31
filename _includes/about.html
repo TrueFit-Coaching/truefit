@@ -8,15 +8,15 @@
       </div>
     </div>
     <div class="row">
-	<div class="col-lg-8 mx-auto text-center d-flex align-items-center">
-		<!-- New Image Environment -->
-		<div class="col-md-6">
-			<img src="{{ site.data.sitetext[site.locale].about.image | default: '/path/to/default-image.jpg' }}" alt="About Us Image" class="img-fluid">
-		</div>
+	<div class="col-lg-8 mx-auto text-center">
 		<!-- Large Text-Muted Environment -->
-		<div class="col-md-8 large text-muted">
+		<div class="col-md-12 large text-muted">
 			{{ site.data.sitetext[site.locale].about.body | markdownify }}
 		</div>
+		<!-- New Image Environment -->
+        	<div class="col-md-6 mt-4 mx-auto text-center"> <!-- Added margin-top for spacing -->
+          		<img src="{{ site.data.sitetext[site.locale].about.image | default: '/path/to/default-image.jpg' }}" alt="About Us Image" class="img-fluid">
+        	</div>
 	</div>
     </div>
   </div>
@@ -31,15 +31,15 @@
       </div>
     </div>
     <div class="row">
-	<div class="col-lg-8 mx-auto text-center d-flex align-items-center">
-		<!-- New Image Environment -->
-		<div class="col-md-6">
-			<img src="{{ site.data.sitetext[site.locale].about.image | default: '/path/to/default-image.jpg' }}" alt="About Us Image" class="img-fluid">
-		</div>
+	<div class="col-lg-8 mx-auto text-center">
 		<!-- Large Text-Muted Environment -->
-		<div class="col-md-8 large text-muted">
+		<div class="col-md-12 large text-muted">
 			{{ site.data.sitetext[site.locale].about.body | markdownify }}
 		</div>
+		<!-- New Image Environment -->
+        	<div class="col-md-6 mt-4 mx-auto text-center"> <!-- Added margin-top for spacing -->
+          		<img src="{{ site.data.sitetext[site.locale].about.image | default: '/path/to/default-image.jpg' }}" alt="About Us Image" class="img-fluid">
+        	</div>
 	</div>
   </div>
 </section>

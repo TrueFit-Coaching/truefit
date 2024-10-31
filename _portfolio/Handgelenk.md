@@ -16,22 +16,7 @@ caption:
    thumbnail: assets/img/portfolio/HandgelenkEtc/thumbnail-wrist.jpg
 ---
 
-Ref1:
-https://www.doktorweigl.de/symptome/schmerzen-im-handgelenk-so-besiegen-sie-die-schmerzen-13297/
-
-Ref2:
-https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008570.pub3/full
-
 Über 30% der Menschen, die mehr als drei Stunden täglich am Computer arbeiten, klagen über Beschwerden im Handgelenk [1, 2, 3, 4]. Höchste Zeit, die Statistik zu verbessern! Deswegen habe ich einen kleinen Artikel verfasst, der zusammenfasst, was solche Handgelenksprobleme verursacht, wie man ihnen vorbeugen kann und was im Akutfall gemacht werden kann. Gerade die weiter unten erwähnten Übungen zur Stärkung des Handgelenks sind aber nicht nur für Büroarbeiter interessant, auch Sportler können sehr davon profitieren, wenn zum Beispiel Schmerzen im Handgelenk bei Liegenstützen auftreten.
-
-[1] Cook C, Limerick BR, Chang S. The prevalence of neck and upper extremity musculoskeletal symptoms in computer mouse users. Int J Ind Ergon. 2000;26:347–56.
-
-[2] Wu S, He L, Li J, Wang J, Wang S. Visual Display Terminal Use Increases the Prevalence and Risk of Work-related Musculoskeletal Disorders among Chinese Office Workers: A Cross-sectional Study. J Occup Health. 2012;54:34–43.
-
-[3] Rocha LE, Glina DMR, Marinho MF, Nagasato D. Risk Factors for Musculoskeletal Symptoms among Call Center Operators of a Bank in São Paulo. Brazil. Industrial Health. 2005;43:637–46.
-
-[4] Kaliniene, G., Ustinaviciene, R., Skemiene, L. et al. Associations between musculoskeletal pain and work-related factors among public service sector computer workers in Kaunas County, Lithuania. BMC Musculoskelet Disord 17, 420 (2016). https://doi.org/10.1186/s12891-016-1281-7
-link: https://bmcmusculoskeletdisord.biomedcentral.com/articles/10.1186/s12891-016-1281-7#citeas
 
 ## Sehr kurze Anatomie des Handgelenks
 
@@ -210,3 +195,14 @@ Tennisballpresse
 <p align = "center">
 Dehnung des Daumens
 </p>
+
+References: 
+
+[1] Cook C, Limerick BR, Chang S. The prevalence of neck and upper extremity musculoskeletal symptoms in computer mouse users. Int J Ind Ergon. 2000;26:347–56.
+
+[2] Wu S, He L, Li J, Wang J, Wang S. Visual Display Terminal Use Increases the Prevalence and Risk of Work-related Musculoskeletal Disorders among Chinese Office Workers: A Cross-sectional Study. J Occup Health. 2012;54:34–43.
+
+[3] Rocha LE, Glina DMR, Marinho MF, Nagasato D. Risk Factors for Musculoskeletal Symptoms among Call Center Operators of a Bank in São Paulo. Brazil. Industrial Health. 2005;43:637–46.
+
+[4] Kaliniene, G., Ustinaviciene, R., Skemiene, L. et al. Associations between musculoskeletal pain and work-related factors among public service sector computer workers in Kaunas County, Lithuania. BMC Musculoskelet Disord 17, 420 (2016). https://doi.org/10.1186/s12891-016-1281-7
+link: https://bmcmusculoskeletdisord.biomedcentral.com/articles/10.1186/s12891-016-1281-7#citeas
