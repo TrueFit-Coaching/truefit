@@ -121,3 +121,110 @@ en-GB:
 en-AU:
   <<: *DEFAULT_EN
 
+# Deutsch
+# -----------------
+en: &DEFAULT_DE
+  header:
+    title: Dein Weg zu einem gesunden und erfolgreichen Lifestyle
+    text: Willkommen bei TrueFit Coaching
+    button: Termin vereinbaren
+    buttonlink: "#contact"
+
+  services:
+    title: "Leistungen"
+    text: "Coaching vor Ort & online möglich"
+    section: services
+    list:
+      - title: "Fitness Transformation"
+        desc: "Your Ultimate Fitness Makeover - Embark on a full-body transformation journey with a personalized plan designed to reshape your physique and boost your confidence. From weight loss to muscle gain, I will guide you every step of the way to achieve lasting results.
+"
+        icon: fas fa-rocket #find more at https://fontawesome.com/icons
+      - title: "Burn & Sculpt"
+        desc: "Torch Fat, Define Muscle - This high-intensity program is crafted for rapid fat burning and muscle toning. Push your limits with powerful workouts designed to deliver visible results in less time, perfect for those who want to get fit fast."
+        icon: fas fa-fire
+      - title: "Fit nach Plan"
+        desc: "Fit by Design - Achieve your unique fitness goals with a customized workout and nutrition plan. Whether you're building strength, toning up, or shedding pounds, this program adapts to you and evolves as you progress.
+"
+        icon: fa fa-plus-circle
+      - title: "Fit Mommy"
+        desc: "Strong After Childbirth - Get back to feeling your best after childbirth with safe and effective workouts tailored for new mothers. This program helps you rebuild strength, tone your body, and regain energy, all while focusing on your post-pregnancy recovery."
+        icon: fa fa-female
+      - title: "Workday Warrior"
+        desc: "Stay fit without compromising your busy schedule. This program is designed for professionals with limited time, featuring efficient workouts and mobility exercises to keep you active and energized throughout the workday."
+        icon: fa fa-laptop
+      - title: "Fit im Alter"
+        desc: "Stay Strong, Age Gracefully - Designed for older adults, this program promotes strength, flexibility, and mobility to help you stay active and maintain your independence. With low-impact exercises, we’ll ensure you feel confident and capable at every stage of life."
+        icon: fab fa-pagelines
+
+  about:
+    title: "Über mich"
+    body: "Welcome! I’m **Dr. Vera Schnells**, a licensed personal trainer with over a decade of experience in fitness transformation. Guided by a **science-based approach**, I craft personalized programs that combine effective training and tailored nutrition for impactful, lasting results. Based in Germany, I offer both in-person and online coaching for all fitness levels — whether you’re a beginner, an advanced athlete, or a new mom looking to regain strength and confidence.\n
+    
+    My goal is to empower you with effective workouts and balanced nutrition, designed uniquely for your needs and lifestyle. Together, we’ll create a plan that’s realistic, challenging, and most importantly — sustainable. Let’s work together to **unlock your full potential** and make lasting changes, one step at a time.\n
+    
+    **Ready to start your journey? Let’s connect and make it happen!**"
+    image: assets/img/about/profilepic0.jpg
+    section: about
+
+  timeline:
+    title: "Erfahrungsberichte"
+    text: "Hier sind ein paar der Erfolgsgeschichten meiner Klienten"
+    section: testimonials
+    # left is the default
+    #start_align: "left"
+    events:
+      - title: "Boosted my motivation for working out and achieving my goals"
+        year: "Viktor, Master of Digitalization student"
+        desc: "When my progress stalled, Vera made a significant impact on my muscle-building journey. She provided not only motivation but also a personalized training plan tailored to my goals, along with invaluable tips on vegan nutrition. Her targeted guidance on exercise execution completed the experience perfectly. I truly appreciate her scientific approach, and with Vera's support, I've achieved remarkable progress. If you're ready to transform your fitness journey, I highly recommend working with Vera!"
+        image: assets/img/timeline/viktor.jpg
+        alt:
+                #      - title: "Feel so much more confident in my body"
+                #        year: "Peter, college teacher"
+                #        desc: "bla"
+                #        image: assets/img/timeline/peter.jpg
+                #        alt:
+      - title: "Got back into the gym continuously after a long injury break"
+        year: "Felix, civil cervant and lecturer"
+        desc: "After a long break due to injury, I found myself struggling to regain my fitness and motivation. As a civil clerk with a desk job, I knew I needed to make a change, but I didn't know where to start. Working with Vera has been a transformative experience. She not only helped me get back into sports but also tailored a plan that suited my needs and schedule. Her encouragement and expertise made all the difference in my recovery, both physically and mentally. I’ve regained my strength and confidence, and I feel better than ever. If you're in a similar situation and need a supportive coach, I highly recommend reaching out to Vera. She will help you find your path to fitness!"
+        image: assets/img/timeline/felix.jpg
+        alt:
+      - title: "I finally have a fitness routine I can integrate into my busy work schedule"
+        year: "Sinah, health care professional"
+        desc: "Working with Vera has been a game changer for me! As a busy professional, I struggled to find time for fitness amidst my hectic schedule. Vera crafted an efficient workout plan that perfectly fits into my day, allowing me to stay consistent and motivated. Her expert guidance on healthy eating and incorporating mobility exercises into my office routine has made a huge difference in my energy levels and overall well-being. I’ve not only transformed my fitness but also my mindset. I can't recommend Vera enough—if you're looking to make a positive change in your life, she is the coach you need!"
+        image: assets/img/timeline/sinah.jpg
+        alt:
+    end: "Begin <br> Your Success <br> Story!"
+
+  portfolio:
+    title: "Blog"
+    text: "Artikel zu Fitness und Ernährung"
+    section: blog
+    closebutton: "Artikel schließen"
+
+  contact:
+    title: "Kontakt"
+    text: "Zur Terminanfrage oder zur Beantwortung von Fragen verwendet das folgende Kontaktformular oder schreibt mir auf Instagram "
+    section: contact
+    name: "Name*"
+    name-validation: "Bitte gebe deinen Namen an."
+    email: "Email*"
+    email-validation: "Bitte gebe deine Adresse an."
+    phone: "Telefonnummer"
+    phone-validation: "Bitte gebe deine Telefonnummer an."
+    message: "Nachricht*"
+    message-validation: "Bitte schreibe eine Nachricht."
+    subject: "Kontaktformular übermitteln"
+    submit: "Nachricht senden"
+
+  footer:
+    legal: "Datenschutzerklärung"
+    imprint: "Impressum"
+    social:
+      - url: https://instagram.com/workout_shinobi
+        icon: "fab fa-instagram"
+      - url: https://www.facebook.com/profile.php?id=100082318942102
+        icon: "fab fa-facebook-f"
+      - url: https://linkedin.com/dr-vera-schnells-9400b51b2
+        icon: "fab fa-linkedin-in"
+de-DE:
+  <<: *DEFAULT_DE
